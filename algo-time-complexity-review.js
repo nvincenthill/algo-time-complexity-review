@@ -1,5 +1,5 @@
 /////////// Prompt 1 ///////////
-/////////// time complexity: 
+/////////// time complexity: O(n)
 function findMax(array){
   var max = -Infinity;
   for (var i = 0; i < array.length; i++){
